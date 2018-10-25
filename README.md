@@ -1,5 +1,5 @@
   
-  ### If you love to contribute to open source,this is the platform where we show your work/talent recognized by rank. It will help recruiters and you as well. [For More info](https://github.com/jsroyal/JobProfile/blob/master/RuleForRank.md)
+  ### If you love to contribute to open source,this is the platform where we show your work/talent recognized by rank. It will help recruiters and you as well. [For More info](https://github.com/jsroyal/JobProfile/blob/master/RuleForRank.md)  
 -------------------------------------------------------------------------------------------------------------------------------
  
  
